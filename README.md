@@ -1,0 +1,1 @@
+An Android-based AI chatbot leveraging the Google Gemini 3.0 API. Features a polished Material Design UI, real-time Markdown rendering with Markwon, and advanced long-press interactions. Built to explore state-of-the-art reasoning and multimodal integration in mobile apps.
